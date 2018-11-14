@@ -1,0 +1,41 @@
+    1  cd ./workspace 
+    2  python Dhairya Resume
+    3  Dhairya Mistry
+    4  --3000
+    5  --port=3000
+    6  cd ./workspace 
+    7  git clone https://github.com/dmistry12/dmistry12.github.io.git favteam
+    8  cd favteam
+    9  cd ./workspace 
+   10  dmistry12.github.io
+   11  dmistry12.github.io$
+   12  cd --dmistry12.github.io$
+   13  cd dmistry12.github.io$
+   14  cd ./workspace 
+   15  python --version
+   16  pip install flask
+   17  cd ./workspace 
+   18  cd ./workspace/Flask1 
+   19  flask run hello.py --host=0.0.0.0 --port=3000
+   20  FLASK_APP=hello.py flask run --host=0.0.0.0 --port=3000
+   21  git init
+   22  git add.
+   23  git add .
+   24  git commit -m "first try"
+   25  git remote add origin https://github.com/dmistry12/lab-5.git
+   26  git remote -v
+   27  git push origin master
+   28  history
+   29  history > history.txt
+   30  cd ./workspace 
+   31  git clone https://github.com/pallets/flask.git 
+   32  cd flask/examples/tutorial
+   33  export LC_ALL=C.UTF-8
+   34  export LANG=C.UTF-8
+   35  export FLASK_APP=flaskr
+   36  export FLASK_ENV=development
+   37  flask run --host=0.0.0.0 --port=3000
+   38  flask init-db
+   39  flask run --host=0.0.0.0 --port=3000
+   40  history
+   41  history > history.txt
